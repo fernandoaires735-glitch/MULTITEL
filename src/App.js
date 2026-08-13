@@ -1,1 +1,1 @@
-console.log("Login iniciado");
+console.log("Login iniciado com sucesso");
